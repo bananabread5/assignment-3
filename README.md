@@ -5,4 +5,4 @@ The main task was to create a menu where a person could look at an outbound and 
 
 My code is able to prevents standard input pollution when switching between character choices (getchar/scanf) and full string reads through the clear_buffer() function. The function removes any leftover characters and insures nothing too long can be input in order to stop errors from being gernerated.
 
-For the AI test part. I was actually able to do the test without any errors. I had seen in the assignment what the AI was supposed to test for, so I made sure to try my best to avoid those errors from being an issue, and was able to do so successfully.
+For the AI test part. I was actually able to do the test without any errors. I had seen in the assignment what the AI was supposed to test for, so I made sure to try my best to avoid those errors from being an issue, and was able to do so successfully. A for the prompts I used, I simply gave it the task that I was supposed to create and told it to create a test case based off of what was asked in the assignment. It generated it and I double checked that the test file had tested everything that was needed in the instructions.
