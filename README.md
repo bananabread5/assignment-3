@@ -1,1 +1,8 @@
 # assignment-3
+
+Problem and solution summery:
+The main task was to create a menu where a person could look at an outbound and inbound flight and either add themselves or remove themselves from the flight, as well as view things such as how many seats were empty and which ones. In order to do this, I made a structure called seat in order to help me store all the information. I then created two arrays to keep the data from the inbound flight and the outbound flight separate. After this, I started working on a function for each of the tasks in the secondary menu, since both menus have the same options. Then, when I made the actual menus, I was able to just call each function instead of typing out what would be nearly identical code twice. After that I went in and just made sure that the code was able to handle errors when users try to input invalid answers.
+
+My code is able to prevents standard input pollution when switching between character choices (getchar/scanf) and full string reads through the clear_buffer() function. The function removes any leftover characters and insures nothing too long can be input in order to stop errors from being gernerated.
+
+For the AI test part. I was actually able to do the test without any errors. I had seen in the assignment what the AI was supposed to test for, so I made sure to try my best to avoid those errors from being an issue, and was able to do so successfully.
