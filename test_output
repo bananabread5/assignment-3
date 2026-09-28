@@ -1,0 +1,339 @@
+First-Level Menu: 
+ A) Outbound Flight 
+ B) Inbound Flight 
+ C) Quit 
+Please select an option: Error: you can only choose a, b, or c.
+First-Level Menu: 
+ A) Outbound Flight 
+ B) Inbound Flight 
+ C) Quit 
+Please select an option: Error: you can only choose a, b, or c.
+First-Level Menu: 
+ A) Outbound Flight 
+ B) Inbound Flight 
+ C) Quit 
+Please select an option: Error: you can only choose a, b, or c.
+First-Level Menu: 
+ A) Outbound Flight 
+ B) Inbound Flight 
+ C) Quit 
+Please select an option: Error: you can only choose a, b, or c.
+First-Level Menu: 
+ A) Outbound Flight 
+ B) Inbound Flight 
+ C) Quit 
+Please select an option: Error: you can only choose a, b, or c.
+First-Level Menu: 
+ A) Outbound Flight 
+ B) Inbound Flight 
+ C) Quit 
+Please select an option:  A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Error: you can only choose a-f. A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Number of empty seats: 24
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: empty seats: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Please enter a seat number you would like, or enter 25 to cancel:  A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Please enter a seat number you would like, or enter 25 to cancel: Enter your first name: Enter your last name: the seat has been assigned to you!
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Please enter a seat number you would like, or enter 25 to cancel: That seat is taken.
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Error: you can only choose a-f. A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Error: you can only choose a-f. A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Please enter a seat number you would like, or enter 25 to cancel: Invalid selection.
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Please enter a seat number you would like, or enter 25 to cancel: Enter your first name: Enter your last name: the seat has been assigned to you!
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Please enter a seat number you would like, or enter 25 to cancel: Enter your first name: Enter your last name: the seat has been assigned to you!
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: empty seats: 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Alphabetical list of names:
+John, Smith - Seat 1
+Mary Jane, Van Buren - Seat 2
+ThisFirstNameIsAlsoWayTooLongForTheBuffer, ThisNameIsWayTooLongForTheBufferToHandleSafely - Seat 3
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Number of empty seats: 21
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Please enter a seat number you would like, or enter 25 to cancel: That seat is empty A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Please enter a seat number you would like, or enter 25 to cancel: Seat assignment deleted.
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Please enter a seat number you would like, or enter 25 to cancel: Seat assignment deleted.
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Please enter a seat number you would like, or enter 25 to cancel: Invalid seat.
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Please enter a seat number you would like, or enter 25 to cancel: Enter your first name: Enter your last name: the seat has been assigned to you!
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Please enter a seat number you would like, or enter 25 to cancel: Seat assignment deleted.
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Please enter a seat number you would like, or enter 25 to cancel: Enter your first name: Enter your last name: the seat has been assigned to you!
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Please enter a seat number you would like, or enter 25 to cancel: Seat assignment deleted.
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: First-Level Menu: 
+ A) Outbound Flight 
+ B) Inbound Flight 
+ C) Quit 
+Please select an option: Error: you can only choose a, b, or c.
+First-Level Menu: 
+ A) Outbound Flight 
+ B) Inbound Flight 
+ C) Quit 
+Please select an option:  A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Error: you can only choose a-f. A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Number of empty seats: 24
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Please enter a seat number you would like, or enter 25 to cancel: Enter your first name: Enter your last name: the seat has been assigned to you!
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Please enter a seat number you would like, or enter 25 to cancel: That seat is taken.
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Error: you can only choose a-f. A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Number of empty seats: 23
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Error: you can only choose a-f. A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Error: you can only choose a-f. A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Error: you can only choose a-f. A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Error: you can only choose a-f. A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Error: you can only choose a-f. A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Number of empty seats: 23
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Error: you can only choose a-f. A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Please enter a seat number you would like, or enter 25 to cancel: Invalid selection.
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Alphabetical list of names:
+Sarah, Williams - Seat 1
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: empty seats: 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Please enter a seat number you would like, or enter 25 to cancel: That seat is empty A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Please enter a seat number you would like, or enter 25 to cancel: That seat is empty A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Please enter a seat number you would like, or enter 25 to cancel: Enter your first name: Enter your last name: the seat has been assigned to you!
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: Please enter a seat number you would like, or enter 25 to cancel: Enter your first name: Enter your last name: the seat has been assigned to you!
+ A) Show number of seats that are empty 
+ B) Show list of the seats that are empty 
+ C) Show list of seats in alphabetical order 
+ D) Assign a passenger to a seat 
+ E) Remove an assigned seat 
+ F) Return to the main menu 
+Please select an option: First-Level Menu: 
+ A) Outbound Flight 
+ B) Inbound Flight 
+ C) Quit 
+Please select an option: Quiting!
+PS C:\Users\kade1\Desktop\INET1301> 
